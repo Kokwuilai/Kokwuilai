@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+I'm Lai Kok Wui,
+
+This account is for working purposes,
+
 <!--
 **Laikokwui/Laikokwui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
