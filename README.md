@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on mobile application using Ionic Framework with Angular
-- 🌱 I’m currently learning Angular and Ionic Framework
+- 🔭 I’m currently working on mobile application using React Native or Angular Ionic
+- 🌱 I’m currently learning -
 - 😄 Pronouns: he/him
 - 📫 How to reach me: kokwui.lai@coder.com.my
